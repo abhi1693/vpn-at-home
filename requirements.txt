@@ -46,6 +46,6 @@ traitlets==4.3.2
 Twisted==18.9.0
 txaio==18.8.1
 username==2.0.2
-validators==0.12.4
+validators==0.12.6
 wcwidth==0.1.7
 zope.interface==4.6.0
